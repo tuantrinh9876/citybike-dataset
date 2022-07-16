@@ -1,6 +1,6 @@
 
 
-# The New York Citi Bikes Data Set 
+# The New York City Bikes Data Set 
 ### Trinh Dinh Tuan
 ### Data Analyst Portfolio 2022
 ### Tools used in this project
